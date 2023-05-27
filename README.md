@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
-- 🌱 I’m currently learning **NLP, DLP, CNN**
+- 🌱 I’m currently learning **NLP, DLP, CNN, Prompt Engneering ** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumans096](https://github.com/Sumans096)
 
